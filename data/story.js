@@ -14,7 +14,7 @@ var story = {
  "disableInteractions": false,
  "disableHotspots": true,
  "zoomEnabled": true,
- "title": "Demo",
+ "title": "ANF+AVS Simulator",
  "layersExist": false,
  "highlightLinks": false,
  "pages": [
